@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [androidx.databinding:viewbinding:8.13.2] /Users/warrenberey/.gradle/caches/8.13/transforms/1a221ee3a270b3e2daecdbe45d0509f2/transformed/viewbinding-8.13.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/warrenberey/.gradle/caches/8.13/transforms/ea48102bf02a626925e890b77016ab98/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a59b64b013c2be466265001620070780/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/warrenberey/.gradle/caches/8.13/transforms/cb0e815e28ccaaafc70429ff63e46f9d/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/42ca467bb4d68fd47cc58a467324cd56/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/12f72a814aa2a6dd31e494ed675b0cbf/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/warrenberey/.gradle/caches/8.13/transforms/8ff52198f38f574a65a3e77f7da7753c/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/44d3b85040a789de5c9b42755513c0b3/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/1c32890aa925bcb882bca01534ee9770/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/56f643f1b465bb2124e312f3801105b3/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/4c3fea07141d386ee32af78a6a477554/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/30bd9feb35c06986dc0f871579b3641e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d2b5eeb4ee35240e728756d4501c5dbf/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/8e1c613a511ecc407cdc4b872e279e8d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/36a01caa3e13777ce18864687b9aeba9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/094b35cd9b380f19164b928c3285c34c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/b0b850881af95d71b699f01149007f50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/7403c8eeb8f83eeb02e1edea2ff1bf8e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/09e2e62e8d7f31ad5863bdcc54e2a150/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/e0d37ac4592a9c98a17a025f336cb36e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/460cb66c4cdb19bc157dfc2792204e32/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/f5695f5e6468aeb849623c8707c462c4/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/fa4650907f53d89501580959f34e3859/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/947d2c1c645371911b9af0d55c187585/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/41811d9f0fb6289c348c17417ad64c16/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/3abd4f54ba003575c3a36128d338fc0a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/84da256de18cd406d28f917fdb7f6a02/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/506ecca13a070c4bff12465d444afcac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/afee6d632ed8d40c4582b4478f0ed474/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/25ac73849120beaca3a09b48d5add737/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/00e67f677fdf642d7a6aa205de06b3c7/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/warrenberey/.gradle/caches/8.13/transforms/bb97fc642c8e6f666362083727efbbc8/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/31496cd01ec41dc87cb344817dc1c407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/cf0ac461157f65e609d31c7a5b02faac/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a02e2ec5015777e45d5c90693ef2f844/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/d745a96c1a751d307cb03cf843893e30/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d39c81cc499ae647830cf8d228a32fa6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/warrenberey/.gradle/caches/8.13/transforms/9e869d3e54ae919cb88f702589e6f055/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/3a60ad8e377dcb0e959fce213846a661/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/308c6f68d1738e1c4d0a311afa3c5b20/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/356ffe2729600c7553930f156f43f3bd/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.health.READ_HYDRATION
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.health.WRITE_HYDRATION
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:13:5-14:58
+	android:usesPermissionFlags
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:13:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:15:22-73
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:16:5-90
+	android:required
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:16:64-87
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:16:19-63
+queries
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:21:5-23:15
+package#com.google.android.apps.healthdata
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:22:9-70
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:22:18-67
+application
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:25:5-65:19
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:25:5-65:19
+MERGED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/warrenberey/.gradle/caches/8.13/transforms/ea48102bf02a626925e890b77016ab98/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/warrenberey/.gradle/caches/8.13/transforms/ea48102bf02a626925e890b77016ab98/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/warrenberey/.gradle/caches/8.13/transforms/cb0e815e28ccaaafc70429ff63e46f9d/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/warrenberey/.gradle/caches/8.13/transforms/cb0e815e28ccaaafc70429ff63e46f9d/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/d745a96c1a751d307cb03cf843893e30/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/d745a96c1a751d307cb03cf843893e30/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:28:9-56
+activity#com.example.hydrationviewer.MainActivity
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:30:9-42:20
+	android:exported
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:35:27-74
+intent-filter#action:name:androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:39:13-41:29
+action#androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:40:17-92
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:40:25-89
+activity#com.example.hydrationviewer.SettingsActivity
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:44:9-47:40
+	android:label
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:47:13-37
+	android:exported
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:45:13-45
+activity-alias#com.example.hydrationviewer.ViewPermissionUsageActivity
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:54:9-63:26
+	android:exported
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:56:13-36
+	android:targetActivity
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:57:13-51
+	android:permission
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:58:13-80
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:55:13-55
+intent-filter#action:name:android.intent.action.VIEW_PERMISSION_USAGE+category:name:android.intent.category.HEALTH_PERMISSIONS
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:59:13-62:29
+action#android.intent.action.VIEW_PERMISSION_USAGE
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:60:17-86
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:60:25-83
+category#android.intent.category.HEALTH_PERMISSIONS
+ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:61:17-87
+	android:name
+		ADDED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml:61:27-84
+uses-sdk
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.2] /Users/warrenberey/.gradle/caches/8.13/transforms/1a221ee3a270b3e2daecdbe45d0509f2/transformed/viewbinding-8.13.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.2] /Users/warrenberey/.gradle/caches/8.13/transforms/1a221ee3a270b3e2daecdbe45d0509f2/transformed/viewbinding-8.13.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:21:5-44
+MERGED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/warrenberey/.gradle/caches/8.13/transforms/ea48102bf02a626925e890b77016ab98/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/warrenberey/.gradle/caches/8.13/transforms/ea48102bf02a626925e890b77016ab98/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a59b64b013c2be466265001620070780/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a59b64b013c2be466265001620070780/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/warrenberey/.gradle/caches/8.13/transforms/cb0e815e28ccaaafc70429ff63e46f9d/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/warrenberey/.gradle/caches/8.13/transforms/cb0e815e28ccaaafc70429ff63e46f9d/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/42ca467bb4d68fd47cc58a467324cd56/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/warrenberey/.gradle/caches/8.13/transforms/42ca467bb4d68fd47cc58a467324cd56/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/12f72a814aa2a6dd31e494ed675b0cbf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/12f72a814aa2a6dd31e494ed675b0cbf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/warrenberey/.gradle/caches/8.13/transforms/8ff52198f38f574a65a3e77f7da7753c/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/warrenberey/.gradle/caches/8.13/transforms/8ff52198f38f574a65a3e77f7da7753c/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/44d3b85040a789de5c9b42755513c0b3/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/44d3b85040a789de5c9b42755513c0b3/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/1c32890aa925bcb882bca01534ee9770/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/warrenberey/.gradle/caches/8.13/transforms/1c32890aa925bcb882bca01534ee9770/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/56f643f1b465bb2124e312f3801105b3/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/56f643f1b465bb2124e312f3801105b3/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/4c3fea07141d386ee32af78a6a477554/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/4c3fea07141d386ee32af78a6a477554/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/30bd9feb35c06986dc0f871579b3641e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/30bd9feb35c06986dc0f871579b3641e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d2b5eeb4ee35240e728756d4501c5dbf/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d2b5eeb4ee35240e728756d4501c5dbf/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/8e1c613a511ecc407cdc4b872e279e8d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/8e1c613a511ecc407cdc4b872e279e8d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/36a01caa3e13777ce18864687b9aeba9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/36a01caa3e13777ce18864687b9aeba9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/094b35cd9b380f19164b928c3285c34c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/094b35cd9b380f19164b928c3285c34c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/b0b850881af95d71b699f01149007f50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/b0b850881af95d71b699f01149007f50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/7403c8eeb8f83eeb02e1edea2ff1bf8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/7403c8eeb8f83eeb02e1edea2ff1bf8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/09e2e62e8d7f31ad5863bdcc54e2a150/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/09e2e62e8d7f31ad5863bdcc54e2a150/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/e0d37ac4592a9c98a17a025f336cb36e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/e0d37ac4592a9c98a17a025f336cb36e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/460cb66c4cdb19bc157dfc2792204e32/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/warrenberey/.gradle/caches/8.13/transforms/460cb66c4cdb19bc157dfc2792204e32/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/f5695f5e6468aeb849623c8707c462c4/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/f5695f5e6468aeb849623c8707c462c4/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/fa4650907f53d89501580959f34e3859/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/warrenberey/.gradle/caches/8.13/transforms/fa4650907f53d89501580959f34e3859/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/947d2c1c645371911b9af0d55c187585/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/947d2c1c645371911b9af0d55c187585/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/41811d9f0fb6289c348c17417ad64c16/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/41811d9f0fb6289c348c17417ad64c16/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/3abd4f54ba003575c3a36128d338fc0a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/3abd4f54ba003575c3a36128d338fc0a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/84da256de18cd406d28f917fdb7f6a02/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/84da256de18cd406d28f917fdb7f6a02/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/506ecca13a070c4bff12465d444afcac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/506ecca13a070c4bff12465d444afcac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/afee6d632ed8d40c4582b4478f0ed474/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/afee6d632ed8d40c4582b4478f0ed474/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/25ac73849120beaca3a09b48d5add737/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/25ac73849120beaca3a09b48d5add737/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/00e67f677fdf642d7a6aa205de06b3c7/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/00e67f677fdf642d7a6aa205de06b3c7/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/warrenberey/.gradle/caches/8.13/transforms/bb97fc642c8e6f666362083727efbbc8/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/warrenberey/.gradle/caches/8.13/transforms/bb97fc642c8e6f666362083727efbbc8/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/31496cd01ec41dc87cb344817dc1c407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/31496cd01ec41dc87cb344817dc1c407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/cf0ac461157f65e609d31c7a5b02faac/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/cf0ac461157f65e609d31c7a5b02faac/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a02e2ec5015777e45d5c90693ef2f844/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/a02e2ec5015777e45d5c90693ef2f844/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/d745a96c1a751d307cb03cf843893e30/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/d745a96c1a751d307cb03cf843893e30/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d39c81cc499ae647830cf8d228a32fa6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/d39c81cc499ae647830cf8d228a32fa6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/warrenberey/.gradle/caches/8.13/transforms/9e869d3e54ae919cb88f702589e6f055/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/warrenberey/.gradle/caches/8.13/transforms/9e869d3e54ae919cb88f702589e6f055/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/3a60ad8e377dcb0e959fce213846a661/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/3a60ad8e377dcb0e959fce213846a661/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/308c6f68d1738e1c4d0a311afa3c5b20/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/308c6f68d1738e1c4d0a311afa3c5b20/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/356ffe2729600c7553930f156f43f3bd/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/warrenberey/.gradle/caches/8.13/transforms/356ffe2729600c7553930f156f43f3bd/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/warrenberey/Downloads/hydration-viewer/app/src/main/AndroidManifest.xml
+service#androidx.health.platform.client.impl.sdkservice.HealthDataSdkService
+ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:27:13-36
+	tools:ignore
+		ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:28:13-43
+	android:name
+		ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:25:13-96
+intent-filter#action:name:androidx.health.platform.client.ACTION_BIND_SDK_SERVICE
+ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:29:13-31:29
+action#androidx.health.platform.client.ACTION_BIND_SDK_SERVICE
+ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:30:17-98
+	android:name
+		ADDED from [androidx.health.connect:connect-client:1.1.0-alpha07] /Users/warrenberey/.gradle/caches/8.13/transforms/36af96f171c48c8e0f18e52ca9ce6f32/transformed/connect-client-1.1.0-alpha07/AndroidManifest.xml:30:25-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/warrenberey/.gradle/caches/8.13/transforms/18d95d64bc7bcb96f595f8ed02c5a8f5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/warrenberey/.gradle/caches/8.13/transforms/10dcfdf04cda6bb6b4624fa73f30acbb/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.hydrationviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.hydrationviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/warrenberey/.gradle/caches/8.13/transforms/5a77dee4cf2cf87eae9dd49fc41985d9/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/warrenberey/.gradle/caches/8.13/transforms/6a6921a44b2c870808fd0403097a138c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/warrenberey/.gradle/caches/8.13/transforms/6934391db2a25169033d1d60745e885f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
